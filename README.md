@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @pasanbim
-- 👀 I’m interested in ecommerce
-- 🌱 I’m currently learning Advanced Level
 - 📫 How to reach me pasan@devologies.com
 
 <!---
